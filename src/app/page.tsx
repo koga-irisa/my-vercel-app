@@ -67,7 +67,7 @@ export default function Home() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 1, delay: 0.2 }}
           >
-            インフラ点検をもっと身近に。<br />
+            インフラ点検をもっと身近に<br />
             誰でも守れる地域の安心
           </motion.h1>
           <motion.p
